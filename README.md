@@ -42,7 +42,7 @@ Each row represents a unique customer, and the columns include:
 ### **3️⃣ Clustering (K-Means)**
 - K-Means was applied to the PCA-transformed data to group similar customers.  
 - The **Elbow Method** and **Silhouette Score** were used to determine the optimal number of clusters.  
-- Optimal number of clusters: **k = 4**
+- Optimal number of clusters: **k = 3**
 
 ### **4️⃣ Evaluation**
 - Visualized explained variance and silhouette scores.  
